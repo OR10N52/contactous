@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\contactos\contactous\bin\Debug\contactous.exe.config
+C:\Users\adria\source\repos\contactos\contactous\bin\Debug\contactous.exe
+C:\Users\adria\source\repos\contactos\contactous\bin\Debug\contactous.pdb
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.AgregarContacto.resources
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.Form1.resources
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.Properties.Resources.resources
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.RemoveContacto.resources
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.exe
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.pdb
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.updateContacto.resources
+C:\Users\adria\source\repos\contactos\contactous\obj\Debug\contactous.lookContacto.resources
